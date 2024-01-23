@@ -3,7 +3,7 @@ from pathlib import Path
 import google.generativeai as genai
 
 # Configure Generative AI API key
-genai.configure(api_key="AIzaSyASsWeLm6WvvefrnWnCSlbxkONACN4mfcw")
+genai.configure(api_key="AIzaSyA1IZnKiyCOzKVxJi32k9UW88XtvmgmteA")
 
 # Set up the model
 generation_config = {
